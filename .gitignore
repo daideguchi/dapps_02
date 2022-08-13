@@ -1,5 +1,6 @@
-Udemy_Contracts/artifacts
-contract
-tests
-.deps
-.git
+Udemy_Contracts/artifacts/
+contract/
+tests/
+.deps/
+.git/
+.gitignore/
