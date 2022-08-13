@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getCount",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "incrementCount",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Udemy_Contracts/Counter.sol": "Counter"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Udemy_Contracts/Counter.sol": {
+			"keccak256": "0x8a2b7357f7011f42d519c72dadd3e0f456499abcc0ab0c79ee5b213d570bb4a7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3b0c4bb77f7e3dac8e60b69fde13eba80f2ba8995f2b45ee16e446857d28e8f5",
+				"dweb:/ipfs/QmXUa3iJzHKHtdvbBYdnYPU2UGiqF3U5jrzPuWu3sSPchj"
+			]
+		}
+	},
+	"version": 1
+}
